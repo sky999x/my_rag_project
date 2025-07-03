@@ -1,0 +1,44 @@
+[
+    {
+        "text": "ProjectOverview Title:ModularAIReportGenerationBackendwithFastAPI+RAG+LangChain Thisprojectdeliversaproduction-readybackendsystemforgeneratingdynamicreports usingLLMs,Retrieval-AugmentedGeneration(RAG),andsecureAPIorchestration.Builtwith amodularstructure,thesystemisdesignedforscalability,traceability,andmultilingual support. TechnologyStack BackendFramework:FastAPI(async-ready,modern,production-grade) LLMOrchestration:LangChain,RAGpatternintegration VectorDB:FAISS+CustomEmbeddingpipelines",
+        "metadata": {
+            "source": "C:\\Project\\my_rag_project\\data\\raw\\Project_Description_Upwork.pdf",
+            "start_index": 0
+        }
+    },
+    {
+        "text": "LLMOrchestration:LangChain,RAGpatternintegration VectorDB:FAISS+CustomEmbeddingpipelines Security:JWTAuth,APIkeyprotection Logging:English+Chinesemultilinguallogsystem Testing:pytestforAPIandinferencecoverage Packaging:Ready-to-deployZIPstructurewithstartupscripts Internationalization:Dual-languagelogmessages(en/zh),structuredloggerwith contextualtracing ✅KeyFeatures Plug-and-PlayArchitecture:Easilyextensibleforfutureagents,prompts,or workflows",
+        "metadata": {
+            "source": "C:\\Project\\my_rag_project\\data\\raw\\Project_Description_Upwork.pdf",
+            "start_index": 406
+        }
+    },
+    {
+        "text": "✅KeyFeatures Plug-and-PlayArchitecture:Easilyextensibleforfutureagents,prompts,or workflows RapidDeployment:Systemcanbedeployedandtestedimmediatelyuponextraction Audit-ReadyLogging:Logsstructuredforproductionuse,includeslanguage, timestamp,loglevel,andsourcemodule CleanAPIDesign:/inference,/health,/docs,andfutureagentendpoints Deliverables 1.Fullyfunctionalbackendsystem(sourcecodeinstructuredmodules) 2.Deploymentguide(README.mdincluded) 3.Finalpackaging(.zip)withallscriptsandconfig",
+        "metadata": {
+            "source": "C:\\Project\\my_rag_project\\data\\raw\\Project_Description_Upwork.pdf",
+            "start_index": 763
+        }
+    },
+    {
+        "text": "2.Deploymentguide(README.mdincluded) 3.Finalpackaging(.zip)withallscriptsandconfig 4.Sampletestscriptsandloggingoutputs 5.APIkey/JWT-basedauthsystem,readyforintegration Maintainer Thesystemisdevelopedandmaintainedbyafull-stackLLMengineerwithexperiencein: Secure,multilingualAPIbackends Retrieval-augmentedgenerationforreportsandsummaries Customloggingframeworksandlifecyclemanagement Upwork-basedremotedeploymentsandconsulting DeploymentContext(Optional) Thissystemcanbeeasilyhostedon:",
+        "metadata": {
+            "source": "C:\\Project\\my_rag_project\\data\\raw\\Project_Description_Upwork.pdf",
+            "start_index": 1167
+        }
+    },
+    {
+        "text": "DeploymentContext(Optional) Thissystemcanbeeasilyhostedon: VPS(Ubuntu/Windows) CloudVM(AWS,GCP,Azure) Localtestenvironmentsvia.batorshellscripts Containersolutions(optional,thoughDockerisavoidedasperclientpreference)",
+        "metadata": {
+            "source": "C:\\Project\\my_rag_project\\data\\raw\\Project_Description_Upwork.pdf",
+            "start_index": 1594
+        }
+    },
+    {
+        "text": "Testing 1,2,3 Testing a, b, c Testing xyz Testing for...",
+        "metadata": {
+            "source": "C:\\Project\\my_rag_project\\data\\raw\\Test.txt",
+            "start_index": 0
+        }
+    }
+]

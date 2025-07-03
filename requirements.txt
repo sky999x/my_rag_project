@@ -1,0 +1,10 @@
+# Core libraries for RAG
+langchain==0.2.5
+langchain-community==0.2.5
+pypdf==4.2.0
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0
+numpy==1.26.4
+# For running LLM (choose one based on your plan, or install later)
+# openai==1.35.1
+# transformers==4.42.1

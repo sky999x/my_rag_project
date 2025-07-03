@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.Python
+.venv/
+env/
+venv/
+artifacts/
+
+# Data & Models (if too large or sensitive)
+# If your FAISS index files are very large (e.g., hundreds of MBs or GBs),
+# you might want to uncomment these lines and describe in README how to regenerate them.
+# For now, if they are small (tens of MBs), you can keep them commented to upload.
+# data/processed/
+# *.bin
+# *.json
+
+# Virtual Environment (common names)
+.env
+
+# IDE specific files
+.idea/  # PyCharm specific files
+.vscode/ # VS Code specific files
+
+# Operating System Files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# --- Custom Scripts (Add this section) ---
+find_chinese_chars.py
+check_non_ascii.py
